@@ -7,14 +7,12 @@ The ESP will read the data from the sensor and puts it on the LCD display.
 ![image](https://github.com/resimons/esp32s-nodecmu-lora-bme280/blob/main/images/esp32-esp-32s-nodemcu-pinout.jpg)
 ![image](https://www.tinytronics.nl/image/cache/catalog/products_2024/keyestudio-pir-motion-sensor-main-1500x1500.jpg)
 
-## Wiring
-
 ## Where to buy
 
 [ESP-32S](https://elektronicavoorjou.nl/product/esp32-development-board-wifi-bluetooth)
 [KS0052](https://www.tinytronics.nl/nl/sensoren/beweging/keyestudio-pir-bewegingssensor-module)
 
-## How to connect BME280 and LCD display to ESP32
+## How to connect KS0052 to ESP32
 COMPONENT | COLOUR | ESP
 ------------ | ---------- | -------------
 VCC | RED | 3.3V / 5V
