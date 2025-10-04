@@ -1,26 +1,27 @@
-# Connect a BME280 to a ESP 32S
+# Connect a keystudion PIR motion sensor to a ESP 32S
 
 The ESP will read the data from the sensor and puts it on the LCD display.
 
 ## Pin layout ESP32
 
 ![image](https://github.com/resimons/esp32s-nodecmu-lora-bme280/blob/main/images/esp32-esp-32s-nodemcu-pinout.jpg)
-![image](https://github.com/resimons/esp32s-nodecmu-lora-bme280/blob/main/images/bme280.jpeg)
+![image](https://wiki.keyestudio.com/File:KS0335-1.jpg)
 
 ## Wiring
 
 ## Where to buy
 
 [ESP-32S](https://elektronicavoorjou.nl/product/esp32-development-board-wifi-bluetooth)
-[BME280](https://www.tinytronics.nl/nl/sensoren/lucht/druk/bme280-digitale-barometer-druk-en-vochtigheid-sensor-module)
+[KS0052](https://www.tinytronics.nl/nl/sensoren/beweging/keyestudio-pir-bewegingssensor-module)
 
 ## How to connect BME280 and LCD display to ESP32
 COMPONENT | COLOUR | ESP
 ------------ | ---------- | -------------
-BME280 VCC | RED | 3.3V
-BME280 GND | BLACK | GND
-BME280 SCL | GREEN | GPIO22
-BME280 SDA | YELLOW | GPIO21
+VCC | RED | 3.3V / 5V
+GND | BLACK | GND
+S (signal) | YELLOW | GPIO35
+
+[Wiki KS0052](https://wiki.keyestudio.com/Ks0052_keyestudio_PIR_Motion_Sensor)
 
 # Pinlayout LoRa SX1278 Module ra-02
 
