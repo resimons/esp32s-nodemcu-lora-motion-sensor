@@ -1,11 +1,11 @@
-# Connect a keystudion PIR motion sensor to a ESP 32S
+# Connect a keystudio PIR motion sensor KS0052 to a ESP 32S
 
 The ESP will read the data from the sensor and puts it on the LCD display.
 
 ## Pin layout ESP32
 
 ![image](https://github.com/resimons/esp32s-nodecmu-lora-bme280/blob/main/images/esp32-esp-32s-nodemcu-pinout.jpg)
-![image](https://wiki.keyestudio.com/File:KS0335-1.jpg)
+![image](https://wiki.keyestudio.com/images/0/05/KS0335-1.jpg)
 
 ## Wiring
 
