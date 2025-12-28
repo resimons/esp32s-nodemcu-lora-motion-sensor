@@ -4,7 +4,7 @@ The ESP will read the data from the sensor and puts it on the LCD display.
 
 ## Pin layout ESP32
 
-![image](https://github.com/resimons/esp32s-nodecmu-lora-bme280/blob/main/images/esp32-esp-32s-nodemcu-pinout.jpg](https://github.com/resimons/esp32s-nodemcu-lora-motion-sensor/blob/main/images/esp32-esp-32s-nodemcu-pinout.jpg)
+![image](https://github.com/resimons/esp32s-nodecmu-lora-bme280/blob/main/images/esp32-esp-32s-nodemcu-pinout.jpg](https://github.com/resimons/esp32s-nodemcu-lora-motion-sensor/blob/main/images/esp32-esp-32s-nodemcu-pinout.jpg))
 ![image](https://www.tinytronics.nl/image/cache/catalog/products_2024/keyestudio-pir-motion-sensor-main-1500x1500.jpg)
 
 ## Where to buy
